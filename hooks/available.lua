@@ -1,5 +1,4 @@
 function PLUGIN:Available(ctx)
-  util:DoSomeThing()
   return {
     {
       version = "6.2.0",
